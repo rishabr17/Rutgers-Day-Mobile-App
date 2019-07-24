@@ -1,0 +1,40 @@
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#f2ece8">
+        <SearchView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:divider="#f2ece8"
+            android:background="#FFFFFF"
+            android:theme="@style/WallSearchView"
+            android:id="@+id/searchView"
+            android:gravity="top|start"
+            android:clickable="true" />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#f2ece8"/>
+        <LinearLayout
+            android:background="#f2ece8"
+            android:id="@+id/webRefresh"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <ListView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:divider="@color/colorAccent"
+                android:id="@+id/WebsiteTable"
+                tools:context="layout.Websites"
+                android:gravity="bottom|end">
+            </ListView>
+        </LinearLayout>
+    </LinearLayout>
+</FrameLayout>

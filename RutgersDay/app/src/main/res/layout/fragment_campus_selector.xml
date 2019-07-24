@@ -1,0 +1,27 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.rishabravikumar.rutgersday.ProgramsFragment"
+    android:background="#f2ece8"
+    android:orientation="vertical">
+
+    <TextView
+        android:text="Welcome To Rutgers Day!"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/titled"
+        android:textAlignment="center"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:textColor="#2175a5"
+        android:textSize="16sp"
+        android:textStyle="normal|bold" />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal" />
+
+</LinearLayout>

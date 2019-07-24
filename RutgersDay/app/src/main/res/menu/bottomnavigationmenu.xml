@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mapsIcon"
+        android:icon="@drawable/maps"
+        android:title="Maps"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/programIcon"
+        android:icon="@drawable/programs"
+        android:title="Programs"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/infoIcon"
+        android:icon="@drawable/info"
+        android:title="Info"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/aboutIcon"
+        android:icon="@drawable/about"
+        android:title="About"
+        app:showAsAction="ifRoom" />
+</menu>

@@ -1,0 +1,324 @@
+{
+    "row": [
+      {
+        "Title": "Deck 1",
+        "Description": "Parking Lot 48",
+        "Campus": "Newark",
+        "Location": "Sutphen Road, Across from Visitor Center",
+        "Lat": "40.740321",
+        "Long": "-74.174508"
+      },
+      {
+        "Title": "Deck 2",
+        "Description": "Parking Lot 54",
+        "Campus": "Newark",
+        "Location": "Taylor Road & Bevier Road, Piscataway",
+        "Lat": "40.738848",
+        "Long": "-74.172713"
+      },
+      {
+        "Title": "Bradley Lot",
+        "Description": "Parking Lot 51",
+        "Campus": "Newark",
+        "Location": "Bartholemew Road, Piscataway",
+        "Lat": "40.740088",
+        "Long": "-74.177483"
+      },
+      {
+        "Title": "Hill Hall Lot",
+        "Description": "Parking Lot 67/67B",
+        "Campus": "Newark",
+        "Location": "Bartholemew Road next to Busch Student Center, Piscataway",
+        "Lat": "40.741403",
+        "Long": "-74.176337"
+      },
+      {
+        "Title": "Camden County Technology Center",
+        "Description": "Parking Lot 48",
+        "Campus": "Camden",
+        "Location": "Sutphen Road, Across from Visitor Center",
+        "Lat": "39.946860",
+        "Long": "-75.118666"
+      },
+      {
+        "Title": "Rutgers—Camden Lot C1",
+        "Description": "Parking Lot 54",
+        "Campus": "Camden",
+        "Location": "Taylor Road & Bevier Road, Piscataway",
+        "Lat": "39.947985",
+        "Long": "-75.120407"
+      },
+      {
+        "Title": "Rutgers—Camden Lot C2",
+        "Description": "Parking Lot 51",
+        "Campus": "Camden",
+        "Location": "Bartholemew Road, Piscataway",
+        "Lat": "39.947995",
+        "Long": "-75.120404"
+      },
+      {
+        "Title": "Rutgers—Camden Lot C3",
+        "Description": "Parking Lot 67/67B",
+        "Campus": "Camden",
+        "Location": "Bartholemew Road next to Busch Student Center, Piscataway",
+        "Lat": "39.946921",
+        "Long": "-75.119219"
+      },
+      {
+        "Title": "Rutgers—Camden Lot C14",
+        "Description": "Parking Lot 60A/60B",
+        "Campus": "Camden",
+        "Location": "Brett Road behind Busch Student Center, Piscataway",
+        "Lat": "39.949456",
+        "Long": "-75.122728"
+      },
+      {
+        "Title": "Lot 48",
+        "Description": "Parking Lot 48",
+        "Campus": "Busch",
+        "Location": "Sutphen Road, Across from Visitor Center",
+        "Lat": "40.5150971",
+        "Long": "-74.4606288"
+      },
+      {
+        "Title": "Lot 54",
+        "Description": "Parking Lot 54",
+        "Campus": "Busch",
+        "Location": "Taylor Road & Bevier Road, Piscataway",
+        "Lat": "40.526229",
+        "Long": "-74.461605"
+      },
+      {
+        "Title": "Lot 51",
+        "Description": "Parking Lot 51",
+        "Campus": "Busch",
+        "Location": "Bartholemew Road, Piscataway",
+        "Lat": "40.527012",
+        "Long": "-74.460876"
+      },
+      {
+        "Title": "Lot 67",
+        "Description": "Parking Lot 67/67B",
+        "Campus": "Busch",
+        "Location": "Bartholemew Road next to Busch Student Center, Piscataway",
+        "Lat": "40.522445",
+        "Long": "-74.457571"
+      },
+      {
+        "Title": "Lot 60",
+        "Description": "Parking Lot 60A/60B",
+        "Campus": "Busch",
+        "Location": "Brett Road behind Busch Student Center, Piscataway",
+        "Lat": "40.521564",
+        "Long": "-74.459284"
+      },
+      {
+        "Title": "Lot 64",
+        "Description": "Parking Lot 64",
+        "Campus": "Busch",
+        "Location": "Behind Werblin Recreation Center, Piscataway",
+        "Lat": "40.521368",
+        "Long": "-74.460446"
+      },
+      {
+        "Title": "Lot 53A",
+        "Description": "Parking Lot 53A",
+        "Campus": "Busch",
+        "Location": "Frelinghuysen Road, Piscataway",
+        "Lat": "40.520797",
+        "Long": "-74.463168"
+      },
+      {
+        "Title": "Lot 63",
+        "Description": "Parking Lot 63",
+        "Campus": "Busch",
+        "Location": "Davidson Road East, Piscatawy",
+        "Lat": "40.523749",
+        "Long": "-74.454585"
+      },
+      {
+        "Title": "College Avenue Deck",
+        "Description": "Parking Deck",
+        "Campus": "College Avenue",
+        "Location": "George Street, New Brunswick",
+        "Lat": "40.505153",
+        "Long": "-74.451348"
+      },
+      {
+        "Title": "Lot 30",
+        "Description": "Parking Lot 30",
+        "Campus": "College Avenue",
+        "Location": "Sicard Street; Behind College Avenue Student Center, New Brunswick",
+        "Lat": "40.503619",
+        "Long": "-74.453237"
+      },
+      {
+        "Title": "Lot 26",
+        "Description": "Parking Lot 26",
+        "Campus": "College Avenue",
+        "Location": "Sicard Street; Behind College Avenue Student Center, New Brunswick",
+        "Lat": "40.501889",
+        "Long": "-74.45259"
+      },
+      {
+        "Title": "Lot 16",
+        "Description": "Parking Lot 16",
+        "Campus": "College Avenue",
+        "Location": "George Street, New Brunswick",
+        "Lat": "40.501074",
+        "Long": "-74.446324"
+      },
+      {
+        "Title": "Johnson & Johnson Lot",
+        "Description": "Johnson & Johnson surface lot",
+        "Campus": "College Avenue",
+        "Location": "Johnson Drive, New Brunswick",
+        "Lat": "40.500845",
+        "Long": "-74.443878"
+      },
+      {
+        "Title": "Gateway Parking Deck",
+        "Description": "New Brunswick parking deck (parking fee)",
+        "Campus": "College Avenue",
+        "Location": "Wall Street; corner of Easton Avenue, New Brunswick",
+        "Lat": "40.496978",
+        "Long": "-74.446753"
+      },
+      {
+        "Title": "Church Street Parking Deck",
+        "Description": "Church Street parking deck (parking fee)",
+        "Campus": "College Avenue",
+        "Location": "Church Street, New Brunswick",
+        "Lat": "40.495803",
+        "Long": "-74.443298"
+      },
+      {
+        "Title": "Wellness Center Parking Deck",
+        "Description": "RWJ Wellness Center parking deck",
+        "Campus": "College Avenue",
+        "Location": "Paterson Street, above Fresh Grocer, New Brunswick",
+        "Lat": "40.495134",
+        "Long": "-74.447611"
+      },
+      {
+        "Title": "Lot 33",
+        "Description": "Parking Lot 33",
+        "Campus": "College Avenue",
+        "Location": "Hamilton Street, New Brunswick",
+        "Lat": "40.505691",
+        "Long": "-74.453268"
+      },
+      {
+        "Title": "Lot 34",
+        "Description": "Parking Lot 34",
+        "Campus": "College Avenue",
+        "Location": "Hamilton Street, New Brunswick",
+        "Lat": "40.505662",
+        "Long": "-74.45271"
+      },
+      {
+        "Title": "Lot 70",
+        "Description": "Parking Lot 70",
+        "Campus": "Cook/Douglass",
+        "Location": "Lipman Drive; behind Douglass Student Center, New Brunswick",
+        "Lat": "40.48416",
+        "Long": "-74.437085"
+      },
+      {
+        "Title": "Douglass Parking Deck",
+        "Description": "Douglass parking deck",
+        "Campus": "Cook/Douglass",
+        "Location": "Lipman Drive; behind Douglass Student Center, New Brunswick",
+        "Lat": "40.483899",
+        "Long": "-74.43643"
+      },
+      {
+        "Title": "Lot 98A",
+        "Description": "Parking lot 98A",
+        "Campus": "Cook/Douglass",
+        "Location": "Dudley Road; corner of College Farm Road, New Brunswick",
+        "Lat": "40.478945",
+        "Long": "-74.437836"
+      },
+      {
+        "Title": "Lot 97",
+        "Description": "Parking lot 97",
+        "Campus": "Cook/Douglass",
+        "Location": "Dudley Road; corner of College Farm Road, New Brunswick",
+        "Lat": "40.478692",
+        "Long": "-74.43598"
+      },
+      {
+        "Title": "Lot 76",
+        "Description": "Parking lot 76",
+        "Campus": "Cook/Douglass",
+        "Location": "Dudley Road; corner of Biel Road, New Brunswick",
+        "Lat": "40.480545",
+        "Long": "-74.432278"
+      },
+      {
+        "Title": "Bristol-Myers  Squibb Lot",
+        "Description": "Bristol-Myers Squibb parking lot (connect to shuttle bus to Cook/Douglass Campus)",
+        "Campus": "Cook/Douglass",
+        "Location": "Route 1 South @ College Farm Road, New Brunswick",
+        "Lat": "40.46947",
+        "Long": "-74.435111"
+      },
+      {
+        "Title": "Busch Student Center Bus Stop",
+        "Description": "Busch Student Center Bus Stop",
+        "Campus": "Busch",
+        "Location": "Bartholemew Road, Piscataway",
+        "Lat": "40.523423",
+        "Long": "-74.45836"
+      },
+      {
+        "Title": "Werblin Recreation Center Bus Stop",
+        "Description": "Werblin Recreation Bus Stop",
+        "Campus": "Busch",
+        "Location": "Bartholemew Road, Piscataway",
+        "Lat": "40.518815",
+        "Long": "-74.459959"
+      },
+      {
+        "Title": "Student Activities Center Bus Stop",
+        "Description": "Student Activities Center Bus Stop",
+        "Campus": "College Avenue",
+        "Location": "George Street, New Brunswick",
+        "Lat": "40.504108",
+        "Long": "-74.449079"
+      },
+      {
+        "Title": "Zimmerli Art Museum Bus Stop",
+        "Description": "Zimmerli Art Museum Bus Stop",
+        "Campus": "College Avenue",
+        "Location": "George Street; corner of Hamilton Street, New Brunswick",
+        "Lat": "40.499932",
+        "Long": "-74.445496"
+      },
+      {
+        "Title": "Liberty Street  Bus Stop",
+        "Description": "Liberty Street Bus Stop",
+        "Campus": "College Avenue",
+        "Location": "Liberty Street, New Brunswick",
+        "Lat": "40.493449",
+        "Long": "-74.443475"
+      },
+      {
+        "Title": "New Street Bus Stop",
+        "Description": "New Street Bus Stop",
+        "Campus": "College Avenue",
+        "Location": "George Street, New Brunswick",
+        "Lat": "40.491909",
+        "Long": "-74.443151"
+      },
+      {
+        "Title": "Douglass Student Center Bus Stop",
+        "Description": "Douglass Student Center Bus Stop",
+        "Campus": "Cook/Douglass",
+        "Location": "George Street, New Brunswick",
+        "Lat": "40.484617",
+        "Long": "-74.43584"
+      }
+    ]
+}

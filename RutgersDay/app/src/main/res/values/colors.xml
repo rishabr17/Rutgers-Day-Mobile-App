@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="alphabet_text_selected_color">#99ecf0f1</color>
+    <color name="alphabet_background_color">#00FFFFFF</color>
+    <color name="alphabet_background_border_color">#00FFFFFF</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#2175a5</color>
+</resources>

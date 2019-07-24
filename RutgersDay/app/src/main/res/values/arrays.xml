@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="program_by_campus">
+        <item>Cook/Douglass</item>
+        <item>College Avenue</item>
+        <item>Busch</item>
+    </string-array>
+
+    <integer-array name="image_by_campus">
+        <item>@drawable/cookcampus1</item>
+        <item>@drawable/collegeave</item>
+        <item>@drawable/busch</item>
+    </integer-array>
+
+
+
+    <string-array name="program_by_interest">
+        <item>Get to Know Rutgers</item>
+        <item>Experience the Arts &#38; Humanities</item>
+        <item>Sciences &#38; Technology</item>
+        <item>All Things Green</item>
+        <item>Business &#38; Careers</item>
+        <item>Sports &#38; Recreation</item>
+        <item>Kids Stuff</item>
+        <item>Health &#38; Fitness</item>
+        <item>Alumni</item>
+    </string-array>
+
+    <integer-array name="image_by_interest">
+        <item>@drawable/rutgershedge</item>
+        <item>@drawable/artsandhumanities1</item>
+        <item>@drawable/scienceandtechnology1</item>
+        <item>@drawable/allthingsgreen1</item>
+        <item>@drawable/businessandcareers1</item>
+        <item>@drawable/sportsandrecreation1</item>
+        <item>@drawable/kidsstuff1</item>
+        <item>@drawable/healthandwellness1</item>
+        <item>@drawable/alumni</item>
+    </integer-array>
+
+    <string-array name="performance_stages">
+        <item>College Avenue Big R Stage</item>
+        <item>College Avenue Scarlet Stage</item>
+        <item>Busch Big R Stage</item>
+        <item>Cook/Douglass Big R Stage</item>
+    </string-array>
+
+    <integer-array name="image_by_stages">
+        <item>@drawable/collegeavenuestage1</item>
+        <item>@drawable/scarletstage1</item>
+        <item>@drawable/buschbigrstage1</item>
+        <item>@drawable/cookstage1</item>
+    </integer-array>
+
+    <string-array name="general_info">
+        <item>Parking</item>
+        <item>Bus Stops</item>
+        <item>Food</item>
+        <item>Bus Route</item>
+        <item>Restrooms</item>
+        <item>In Case of Emergency</item>
+        <item>Accessibility</item>
+    </string-array>
+
+    <integer-array name="image_general_info">
+        <item>@drawable/parking</item>
+        <item>@drawable/bus_stops</item>
+        <item>@drawable/food</item>
+        <item>@drawable/busloop1</item>
+        <item>@drawable/restrooms</item>
+        <item>@drawable/incaseofemergency1</item>
+        <item>@drawable/accessibility</item>
+    </integer-array>
+
+    <string-array name="nc_general_info">
+        <item>Parking</item>
+        <item>Food</item>
+        <item>Restrooms</item>
+        <item>In Case of Emergency</item>
+    </string-array>
+
+    <integer-array name="nc_image_general_info">
+        <item>@drawable/parking</item>
+        <item>@drawable/food</item>
+        <item>@drawable/restrooms</item>
+        <item>@drawable/incaseofemergency1</item>
+    </integer-array>
+
+    <string-array name="about">
+        <item>About Rutgers Day</item>
+        <item>About Rutgers</item>
+        <item>Rutgers App</item>
+        <item>Social Media</item>
+        <item>Take The Survey!</item>
+        <item>Reselect Campus</item>
+    </string-array>
+
+    <integer-array name="image_about">
+        <item>@drawable/appicon</item>
+        <item>@drawable/rushield</item>
+        <item>@drawable/rutgers_app</item>
+        <item>@drawable/social_media</item>
+        <item>@drawable/survey</item>
+        <item>@drawable/restartlogo</item>
+    </integer-array>
+
+</resources>
