@@ -2,7 +2,7 @@
 
 : Built with Android Studio (Java & XML) <br />
 : First professional development opportunity <br />
-: Learnt communication, troubleshooting, and time management skills <br />
+: Learned communication, troubleshooting, and time management skills <br />
 
 <p align="left">
 <img src="Screenshots/Screenshot_1.png" height="300" title="Screenshot 1">
